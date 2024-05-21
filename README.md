@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou <a href="https://www.linkedin.com/in/yasminmarcelino/" target="_blank"><i>Yasmin Marcelino</i></a>😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://inscricao.kenzie.com.br/?utm_campaign=indica-kenzie&EMAIL_DO_INDICADOR=yasminmartinsdebrito@gmail.com&NOME_DO_INDICADOR=Yasmin" target="_blank"><span> 👉🏽️</span><i> Kenzie Academy Brasil</i>
+  <p align="center">Consultora e Desenvolvedora na <a href="https://www.wikiconsultoria.com.br/" target="_blank"><span> 👉🏽️</span><i> Wiki Consultoria - Zoho Premium Partner </i>
   </a><br>
 </div>
 
